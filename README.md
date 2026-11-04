@@ -8,7 +8,7 @@ ___
 ## [Predicting Machine Failure](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_mini_project03.ipynb)
 
 ___
-## Predicting Business Spending]
+## Predicting Business Spending
 ### [Exploring Data](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_eda_outsourcing_costs.ipynb)
 ### [Modelling with SARIMA](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modellling_SARIMA.ipynb)
 ### [Modelling with LST](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modelling_LSTM.ipynb)
