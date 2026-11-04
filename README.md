@@ -2,7 +2,7 @@ A repository of projects I have done to solve problems applying business acumen,
 ___
 # Projects
 ___
-[Predict How Long IT Incidents Take to Resolve](##01_Predict_Incident_Resolution_Time)
+[Predict How Long IT Incidents Take to Resolve](#yl_mini_project02.ipynb)
 
 ___
 ## Predicting Machine Failure
