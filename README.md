@@ -9,6 +9,6 @@ ___
 
 ___
 ## Predicting Business Spending
-### [Exploring Data](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_eda_outsourcing_costs.ipynb)
-### [Modelling with SARIMA](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modellling_SARIMA.ipynb)
-### [Modelling with LST](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modelling_LSTM.ipynb)
+[Exploring Data](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_eda_outsourcing_costs.ipynb)
+[Modelling with SARIMA](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modellling_SARIMA.ipynb)
+[Modelling with LST](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modelling_LSTM.ipynb)
