@@ -2,15 +2,11 @@ A repository of projects I have done to solve problems applying business acumen,
 ___
 # Projects
 ___
-## [Predict How Long IT Incidents Take to Resolve](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_mini_project02.ipynb)
+## [Predict How Long IT Incidents Take to Resolve](https://github.com/yingyinglu02-dot/portfolio/tree/main/01_Predict_Incident_Resolution_Time)
 
 ___
-## [Predicting Machine Failure](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_mini_project03.ipynb)
+## [Predicting Machine Failure](https://github.com/yingyinglu02-dot/portfolio/tree/main/02_Predict_Machine_Failures)
 
 ___
 ## [Predicting Business Spending](https://github.com/yingyinglu02-dot/portfolio/tree/main/03_Predict_Business_Spending)
-[Exploring Data](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_eda_outsourcing_costs.ipynb)
 
-[Modelling with SARIMA](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modellling_SARIMA.ipynb)
-
-[Modelling with LST](https://github.com/yingyinglu02-dot/portfolio/blob/main/YL_capstone_modelling_LSTM.ipynb)
