@@ -2,10 +2,10 @@ A repository of projects I have done to solve problems applying business acumen,
 ___
 # Projects
 ___
-## Project: Predicting How Long IT Incidents Take to Resolve
+## Predicting How Long IT Incidents Take to Resolve
 
 ___
-## Project: Predicting Machine Failure
+## Predicting Machine Failure
 
 ___
-## Project: Predicting Business Spending
+## Predicting Business Spending
